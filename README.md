@@ -1,4 +1,4 @@
-```markdown
+
 # Building ChatGPT from Scratch
 
 This repository contains code and resources related to building OpenAI's ChatGPT (GPT-3.5) from scratch, based on Andrej Karpathy's instructional video.
