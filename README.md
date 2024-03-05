@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For inquiries or feedback, please contact [yourname](mailto:nikhilshetty00@gmail.com).
+For inquiries or feedback, please contact mailto:nikhilshetty00@gmail.com
 ```
 
